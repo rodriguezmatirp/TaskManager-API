@@ -25,5 +25,9 @@
     "devDependencies": {
         "env-cmd": "^10.1.0",
         "nodemon": "^2.0.2"
+    },
+    "engines": {
+        "node": "0.10.41",
+        "npm": "1.4.29"
     }
 }
